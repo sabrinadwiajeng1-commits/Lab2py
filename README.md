@@ -1,1 +1,1 @@
-# Lab2py
+# Pengantar Pemograman Pratikum 2
